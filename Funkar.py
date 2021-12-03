@@ -1,6 +1,6 @@
-#!/usr/# coding=utf-8 
+#!/usr# -*- coding: utf-8 -*-
 
-# coding=utf-8
+
 
 # coding by Mr F4DI FUNKAR
 
